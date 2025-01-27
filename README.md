@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/search?sca_esv=590e555f98809f38&sxsrf=AHTn8zpLw4PHrGJjTdv5KS_rnPUEvy7Atg:1737979187391&q=animated+devops+gif&udm=2&fbs=ABzOT_Dq5Jy4NNhR9k4hezUcgSSOdX7isVwdsvMtgro9CrWUk7jSWeqUjuUmh2VwYLFviyyA465ug8ulj4xKMYG5hFms_-C_IRXMyIz5J_gF8rTsh9Uhlcfp1-mZTu1EqZAUGEO0-FaCnCFYbqrX7uPm6unjj8b_4uJDiALgJw_xYNZ3CbkYt5KPUW7UwC9xnG66dA01IF-H1LmpXQrrHiO_FOOHQ0nv8c2174FAFiNE8mWLVK8IxBLY67twtzGbxRk41ZzeOuEB&sa=X&ved=2ahUKEwjss92A7ZWLAxW3TqQEHXfcMCwQtKgLegQIDxAB&biw=1848&bih=933&dpr=1#vhid=VFjhQBfOrtANBM&vssid=mosaic)](https://khaled1771.io)
+![MasterHead](https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif)
 <h1 align="center">Hi 👋, I'm Khaled Mahmoud</h1>
 <h3 align="center">DevOps Engineer | Cloud Solution Architect from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4502902-DevOps-engineer-animation/attachments/10432181?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled1771&label=Profile%20views&color=0e75b6&style=flat" alt="khaled1771" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
