@@ -18,6 +18,13 @@
 
 - 📫 How to reach me **khhaledd.77@gmail.com**
 
+<h3 align="left">✨ Certificates:</h3>
+<p align="left">
+Huawei Certified Cloud Developer
+- NTI Linux Administration
+- NTI CCNA
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khaled mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled mahmoud" height="30" width="40" /></a>
