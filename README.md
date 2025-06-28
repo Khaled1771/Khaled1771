@@ -20,7 +20,9 @@
 
 <h3 align="left">✨ Certificates:</h3>
 <p align="left">
-Huawei Certified Cloud Developer
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure
+- Huawei Certified Cloud Developer Associate
 - NTI Linux Administration
 - NTI CCNA
 </p>
