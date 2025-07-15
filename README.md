@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **End-To-End DevOps Project**
+- 🔭 I’m currently working on **HiveBox**
 
-- 🌱 I’m currently learning **Terraform, GitOps**
+- 🌱 I’m currently learning **Infra as a Code, GitOps**
 
 - 👯 I’m looking to collaborate on **Eco-PowerHub**
 
